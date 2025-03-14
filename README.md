@@ -47,5 +47,6 @@ Open the login.tpl file and edit the line "24" to this:
 [yourdirectory] means where you uploaded the logo.
 ## 3rd Step
 Save the file and close it.
-## Now you changed it
-Now its done and you can use it. If you had any problems, just write it in the "issue" and i will check it.
+## its Done
+Now its done and you can use it. **If you had any problems, just write it in the "issue" and i will check it.**
+Thanks for reading this.
