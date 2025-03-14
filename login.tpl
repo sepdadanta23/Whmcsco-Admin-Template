@@ -44,7 +44,7 @@
                     <form method="post" action="dologin.php">
                         <input type="hidden" name="redirect" value="{$redirectUri}" />
                         <div class="form-group">
-                            <input type="text" name="username" class="form-control" placeholder="نام کابری مدیریت" value="{$username}"{if !$username} autofocus{/if} />
+                            <input type="text" name="username" class="form-control" placeholder="نام کاربری مدیریت" value="{$username}"{if !$username} autofocus{/if} />
                         </div>
                         <div class="form-group">
                             <input type="password" name="password" class="form-control" placeholder="رمز عبور مدیریت"{if $username} autofocus{/if} />
