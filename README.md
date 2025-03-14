@@ -4,8 +4,8 @@ this file is for free, and you can use it in your whmcs website.
 Here is some photos of the admin login page and admin area:
 
 
-![image](https://github.com/user-attachments/assets/6b15c876-3561-44f5-8538-832b9750100b)
-![Screenshot 2025-03-13 231941](https://github.com/user-attachments/assets/06bc3fac-ffd6-4cc4-b70e-d003f6a0a4e3)
+![image](https://github.com/user-attachments/assets/d62afd13-1da7-4c63-b8f9-0513b718a8b0)
+![Screenshot 2025-03-13 231941](https://github.com/user-attachments/assets/b8b17a02-acb2-45bd-8923-994cac8b6d59)
 
 ## Note:
 This template is compatible with WHMCS 8.0 and later. (Try to use the latest version for better experience.)
